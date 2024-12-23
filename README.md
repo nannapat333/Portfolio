@@ -8,7 +8,7 @@ These followings are my courseworks and projects
 
 ## Projects
 ### Buzzer Smacking Game
-Link: [BuzzerSmackingGame](BuzzerSmackingGame/BuzzerSmacking)
+Link: [BuzzerSmackingGame](https://github.com/nannapat333/BuzzerSmackingGame/tree/main)
 
 Objective: A freshman final project for object-oriented programming laboratory class.
 
@@ -19,7 +19,7 @@ Skills: Event-Driven Programming, Game Design Logic, Object-Oriented Programming
 Language: Java
 
 ### SuperSoul
-Link: [SuperSoul](SuperSoul/G11_SuperSoul)
+Link: [SuperSoul](https://github.com/nannapat333/SuperSoul)
 
 Objective: A junior-year group project for database programming laboratory class.
 
