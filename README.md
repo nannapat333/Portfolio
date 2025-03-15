@@ -30,8 +30,7 @@ Skills: Web Development, Database Management, Authentication & Security, E-Comme
 Languages: HTML, CSS, PHP, and SQL
 
 ### StudyBoostAI
-Link: https://www.figma.com/proto/68KOAQahfZxeo9f8Aw4IoZ/Appication-Project?node-id=49-16&node-type=canvas&t=ilPGfx745BeIVTKJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=49%3A16&show-proto-sidebar=1
-
+Link: [StudyBoostAI](https://www.figma.com/design/68KOAQahfZxeo9f8Aw4IoZ/Appication-Project?m=auto&t=hPdyq84VAIH9x7XJ-6)
 Objective: A junior-year group project for digital business experience class.
 
 Description: an EdTech mobile application, providing several educational purposes. This project focused on customer's journey involving UX/UI design.
@@ -39,4 +38,22 @@ Description: an EdTech mobile application, providing several educational purpose
 Skills: Wireframing, Prototyping, UX/UI design, and Collaboration
 
 Technology: Figma
+
+### Business Analysis
+Link: [BPMN of Construction Company]
+Objective: A junior-year group project for business process management class.
+
+Description: a business analysis project, implementing as-is and to-be model using Camunda.
+
+Skills: Business Process Management, Analytics, Research, Presentation, Teamwork
+
+Technology: Camunda
+
+### Blockchain Report
+Link: [Blockchain Report]
+Objective: A junior-year group project for blockchain development class.
+
+Description: a blockchain research project, researching on L2 blockchain solution on Ethereum "StarkNet".
+
+Skills: Research, Presentation, Documentation
 
