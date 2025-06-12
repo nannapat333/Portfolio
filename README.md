@@ -97,3 +97,63 @@ Python
 scikit-surprise
 pandas
 numpy
+
+### Buddha Amulet's NFT Marketplace
+Link: [Buddha-Amulet-NFTMarketplace](https://github.com/nannapat333/buddhaNFT)
+Objective: To build a decentralized NFT marketplace enabling users to mint, trade, and auction digital representations of physical Buddha amulets, enhancing authenticity and transparency in religious artifact trading.
+
+Description: 
+Developed a full-stack dApp that allows users to mint NFTs tied to physical Buddha amulets and list them for fixed-price sale or auction (English & Lucky Bid). Integrated IPFS for metadata storage, implemented royalty logic for creators, and ensured secure bidding and transactions through audited smart contracts. The platform supports wallet connectivity, auction countdowns, and creator profile linkage.
+
+Skills:
+Smart Contract Development
+Full-Stack Web3 Development
+Solidity Auditing (Slither)
+IPFS Metadata Handling
+UI/UX with React and Tailwind
+Auction Algorithm Implementation
+
+Technology:
+Frontend: React.js, Tailwind CSS, ethers.js
+Backend/Blockchain: Solidity, Hardhat, IPFS (Pinata/nft.storage)
+Contracts: ERC-721, Custom Marketplace, EnglishAuction, LuckyBidAuction
+Security Tools: Slither for static analysis
+Wallet Integration: MetaMask
+
+### Snoring Detection via Audio Classification
+Link: [SnoringDetection](https://github.com/nannapat333/SnoringDetection)
+Objective: To detect and classify snoring sounds using machine learning techniques based on audio feature extraction, improving sleep monitoring solutions.
+
+Description:
+Designed a supervised machine learning model to classify snoring vs non-snoring audio using MFCC features. Audio data was preprocessed and transformed using statistical metrics (mean, std of MFCCs). Models were trained and evaluated using MATLAB’s Classification Learner. Explored potential for real-time monitoring by analyzing classification accuracy and feature separability.
+
+Skills:
+Audio Signal Processing
+Feature Engineering (MFCC)
+Machine Learning Classification
+MATLAB Model Evaluation
+Data Preprocessing and Normalization
+Statistical Analysis
+
+Technology:
+Tools: MATLAB Classification Learner, Audacity (for preprocessing)
+Techniques: MFCC feature extraction, SVM / KNN classifiers
+Metrics: Accuracy, Confusion Matrix, Cross-Validation
+Analysis: Feature distribution comparison, hypothesis testing (optional enhancement)
+
+### BlinkedIn: Blockchain-based Verfication Job Application
+Objective: To propose an innovative job-seeking platform that improves hiring transparency and trust using blockchain-based resume verification and real-time application tracking.
+
+Description:
+Conducted comprehensive system and business analysis to design BlinkedIn, a decentralized recruitment platform. The project focused on solving overskilled applicant bias and lack of application feedback through features like verified resumes, institutional API integration, and recruiter incentives. The solution was supported by a detailed business model, ROI and break-even analysis, user flow design, and security planning.
+
+Skills:
+System Architecture & Functional Design
+Blockchain Use Case Analysis
+Business Model Development (Subscription, Incentive, Affiliate)
+User Journey Mapping
+Entrepreneurial Pitching & Market Validation
+ROI & Break-Even Financial Planning
+
+Technology:
+UI/UX (Design-Only): Web-based platform wireframes
