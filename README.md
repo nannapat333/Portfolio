@@ -31,6 +31,7 @@ Languages: HTML, CSS, PHP, and SQL
 
 ### StudyBoostAI
 Link: [StudyBoostAI](https://www.figma.com/design/68KOAQahfZxeo9f8Aw4IoZ/Appication-Project?m=auto&t=hPdyq84VAIH9x7XJ-6)
+
 Objective: A junior-year group project for digital business experience class.
 
 Description: an EdTech mobile application, providing several educational purposes. This project focused on customer's journey involving UX/UI design.
@@ -41,6 +42,7 @@ Technology: Figma
 
 ### Business Analysis
 Link: [BPMN of Construction Company](https://github.com/nannapat333/Business-Analysis)
+
 Objective: A junior-year group project for business process management class.
 
 Description: a business analysis project, implementing as-is and to-be model using Camunda.
@@ -51,6 +53,7 @@ Technology: Camunda
 
 ### Blockchain Report
 Link: [Blockchain Report](https://github.com/nannapat333/Blockchain-Report/blob/main/report.pdf)
+
 Objective: A junior-year group project for blockchain development class.
 
 Description: a blockchain research project, researching on L2 blockchain solution on Ethereum "StarkNet".
@@ -59,6 +62,7 @@ Skills: Research, Presentation, Documentation
 
 ### Secure Sharing with RBAC
 Link: [Secure-SharingRBAC](https://github.com/nannapat333/secure-sharing-RBAC)
+
 Objective:A junior-year group project focused on building a secure file-sharing system that enforces role-based access control (RBAC) and encryption to protect sensitive documents.
 
 Description:
@@ -81,6 +85,7 @@ HTML/CSS with Bootstrap
 
 ### Movies Recommendation System
 Link: [Movies-Recommendation-System](https://github.com/nannapat333/movie-recommender-svd)
+
 Objective: To build a personalized movie recommendation system that predicts user ratings and suggests top movies using the SVD algorithm, optimized for low RMSE.
 
 Description:
@@ -100,6 +105,7 @@ numpy
 
 ### Buddha Amulet's NFT Marketplace
 Link: [Buddha-Amulet-NFTMarketplace](https://github.com/nannapat333/buddhaNFT)
+
 Objective: To build a decentralized NFT marketplace enabling users to mint, trade, and auction digital representations of physical Buddha amulets, enhancing authenticity and transparency in religious artifact trading.
 
 Description: 
@@ -122,6 +128,7 @@ Wallet Integration: MetaMask
 
 ### Snoring Detection via Audio Classification
 Link: [SnoringDetection](https://github.com/nannapat333/SnoringDetection)
+
 Objective: To detect and classify snoring sounds using machine learning techniques based on audio feature extraction, improving sleep monitoring solutions.
 
 Description:
