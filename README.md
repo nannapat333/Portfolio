@@ -3,6 +3,7 @@
 I'm Nannapat Satayarak. Final-year Digital Engineering student with a strong interest in technology, innovation, and data-driven systems. Experienced in Python, Java, and SQL, with hands-on exposure to analytics and modern data techniques. Fluent in English, motivated by challenges, and eager to learn through collaboration and continuous self-development.
 
 View My [Resume](https://github.com/nannapat333/Resume/blob/main/updated_resume.pdf)
+
 View My [Portfolio Webpages](https://www.figma.com/proto/Yr3Sjkmz5luWEMd2Nwg2KV/Untitled?page-id=0%3A1&node-id=1-126&p=f&viewport=-22%2C144%2C0.1&t=SoeJqJPJ5DYwhvV4-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A126)
 
 
