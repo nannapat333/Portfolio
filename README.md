@@ -1,12 +1,14 @@
 # Portfolio
 ## About
-I'm Nannapat Satayarak. Currently, studying digital engineering at SIIT, Thammasat University. During my studies, I have learned and experienced in several languages such as Python, Java, HTML, CSS, PHP, and SQL. Moreover, I also contributed to multiple projects and coursework during my academic journey, gaining hands-on experience in problem-solving, collaboration, and applying technical skills to real-world challenges, and I am now looking forward to applying these abilities in an internship to further develop my expertise and gain industry experience.
+I'm Nannapat Satayarak. Final-year Digital Engineering student with a strong interest in technology, innovation, and data-driven systems. Experienced in Python, Java, and SQL, with hands-on exposure to analytics and modern data techniques. Fluent in English, motivated by challenges, and eager to learn through collaboration and continuous self-development.
 
-My [resume](https://github.com/nannapat333/Resume/blob/main/updated_resume.pdf)
+View My [Resume](https://github.com/nannapat333/Resume/blob/main/updated_resume.pdf)
+View My [Portfolio Webpages](https://www.figma.com/proto/Yr3Sjkmz5luWEMd2Nwg2KV/Untitled?page-id=0%3A1&node-id=1-126&p=f&viewport=-22%2C144%2C0.1&t=SoeJqJPJ5DYwhvV4-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A126)
 
-These followings are my courseworks and projects
 
-## Projects
+These followings are my courseworks and projects.
+
+
 ### Buzzer Smacking Game
 Link: [BuzzerSmackingGame](https://github.com/nannapat333/BuzzerSmackingGame/tree/main)
 
@@ -28,17 +30,6 @@ Description: a retail web application featuring user authentication, shopping ca
 Skills: Web Development, Database Management, Authentication & Security, E-Commerce Features, Admin Tools (CRUD)
 
 Languages: HTML, CSS, PHP, and SQL
-
-### StudyBoostAI
-Link: [StudyBoostAI](https://www.figma.com/design/68KOAQahfZxeo9f8Aw4IoZ/Appication-Project?m=auto&t=hPdyq84VAIH9x7XJ-6)
-
-Objective: A junior-year group project for digital business experience class.
-
-Description: an EdTech mobile application, providing several educational purposes. This project focused on customer's journey involving UX/UI design.
-
-Skills: Wireframing, Prototyping, UX/UI design, and Collaboration
-
-Technology: Figma
 
 ### Business Analysis
 Link: [BPMN of Construction Company](https://github.com/nannapat333/Business-Analysis)
@@ -149,6 +140,7 @@ Metrics: Accuracy, Confusion Matrix, Cross-Validation
 Analysis: Feature distribution comparison, hypothesis testing (optional enhancement)
 
 ### BlinkedIn: Blockchain-based Verfication Job Application
+Link: [BlinkedIn](https://github.com/nannapat333/movie-recommender-svd)
 Objective: To propose an innovative job-seeking platform that improves hiring transparency and trust using blockchain-based resume verification and real-time application tracking.
 
 Description:
@@ -162,5 +154,65 @@ User Journey Mapping
 Entrepreneurial Pitching & Market Validation
 ROI & Break-Even Financial Planning
 
-Technology:
-UI/UX (Design-Only): Web-based platform wireframes
+### Aviation Accident Analysis
+Link: [Aviation Accident Analysis](https://github.com/nannapat333/movie-recommender-svd)
+To analyze aviation accident data using statistical and machine learning techniques in order to understand risk factors and predict accident severity.
+
+Description:
+A data science project that applies exploratory data analysis and statistical methods to aviation accident datasets, followed by machine learning models to predict fatal vs non-fatal outcomes. The project emphasizes both analytical reasoning and model evaluation to ensure reliable, data-driven conclusions.
+
+Skills:
+Data Analytics & Exploration
+Statistical Analysis
+Machine Learning Classification
+Model Evaluation & Validation
+Feature Interpretation
+
+Tools: Python, Pandas, NumPy, Scikit-learn, Statsmodel, Matplotlib / Plotly
+
+### FIFA 26 Ranking Data Visualization
+Link: [FIFA26](https://github.com/nannapat333/movie-recommender-svd)
+Objective: To visualize and communicate insights from football ranking data through clear and engaging data visualizations.
+
+Description:
+A data visualization project that explores FIFA 26 ranking data and transforms raw statistics into intuitive visual stories. The project focuses on comparing team rankings, trends, and performance using visual techniques that make insights easy to understand for non-technical audiences.
+
+Skills:
+Data Visualization & Storytelling
+Exploratory Data Analysis
+Analytical Interpretation
+Visual Communication
+
+Tools: Python, Pandas, Plotly / Matplotlib, Canva
+
+### JetBot "Follow-Me" Robot: JetBot follow colored-objects based on voice instruction
+Link: [JetBot](https://github.com/nannapat333/movie-recommender-svd)
+Objective: To develop an autonomous robot that responds to voice commands and visually tracks and follows a target object in real time.
+
+Description:
+A robotics and AI project where the JetBot listens for voice commands and detects blue-colored objects using computer vision. Upon receiving a “follow me” command, the robot tracks and follows the object’s movement, and stops immediately when it hears the command “stop,” combining vision, audio input, and motion control into a single system.
+
+Skills:
+Computer Vision (Color Detection & Tracking)
+Robotics & Autonomous Control
+Audio Command Processing
+Real-Time System Integration
+Hardware–Software Debugging
+
+Tools: Python, OpenCV, JetBot Platform, NVIDIA Jetson Nano, Camera, Microphone Sensors
+
+### Flight-Booking Application
+Link: [FlightBookingApp](https://github.com/nannapat333/movie-recommender-svd)
+Objective: To design and implement a mobile application that simulates real-world flight booking workflows with an intuitive user experience.
+
+Description:
+A mobile application project that replicates core airline booking functions, including flight search, user authentication, and booking management. The project focuses on clean UI design, structured navigation, and smooth user interaction.
+
+Skills:
+Mobile App Development
+UI/UX Design & Wireframing
+Application Flow Design
+Frontend Logic
+
+Tools: React Native, Expo, JavaScript, AsyncStorage
+
