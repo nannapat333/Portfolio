@@ -142,6 +142,7 @@ Analysis: Feature distribution comparison, hypothesis testing (optional enhancem
 
 ### BlinkedIn: Blockchain-based Verfication Job Application
 Link: [BlinkedIn](https://www.canva.com/design/DAG9iKbnbWU/CfGoRv13uLAvWpeMbwIjfA/edit?utm_content=DAG9iKbnbWU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 Objective: To propose an innovative job-seeking platform that improves hiring transparency and trust using blockchain-based resume verification and real-time application tracking.
 
 Description:
@@ -157,7 +158,8 @@ ROI & Break-Even Financial Planning
 
 ### Aviation Accident Analysis
 Link: [Aviation Accident Analysis](https://github.com/nannapat333/Aviation-Accident-Analysis)
-To analyze aviation accident data using statistical and machine learning techniques in order to understand risk factors and predict accident severity.
+
+Objective: To analyze aviation accident data using statistical and machine learning techniques in order to understand risk factors and predict accident severity.
 
 Description:
 A data science project that applies exploratory data analysis and statistical methods to aviation accident datasets, followed by machine learning models to predict fatal vs non-fatal outcomes. The project emphasizes both analytical reasoning and model evaluation to ensure reliable, data-driven conclusions.
@@ -173,6 +175,7 @@ Tools: Python, Pandas, NumPy, Scikit-learn, Statsmodel, Matplotlib / Plotly
 
 ### FIFA 26 Ranking Data Visualization
 Link: [FIFA26](https://www.canva.com/design/DAG9iMDQQyg/2ljZIISKtaywFFF-1zn9Fw/edit?utm_content=DAG9iMDQQyg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 Objective: To visualize and communicate insights from football ranking data through clear and engaging data visualizations.
 
 Description:
@@ -188,6 +191,7 @@ Tools: Python, Pandas, Plotly / Matplotlib, Canva
 
 ### JetBot "Follow-Me" Robot: JetBot follow colored-objects based on voice instruction
 Link: [JetBot](https://github.com/nannapat333/FollowMe-JetBot)
+
 Objective: To develop an autonomous robot that responds to voice commands and visually tracks and follows a target object in real time.
 
 Description:
@@ -204,6 +208,7 @@ Tools: Python, OpenCV, JetBot Platform, NVIDIA Jetson Nano, Camera, Microphone S
 
 ### Flight-Booking Application
 Link: [FlightBookingApp](https://github.com/nannapat333/flight-booking-app)
+
 Objective: To design and implement a mobile application that simulates real-world flight booking workflows with an intuitive user experience.
 
 Description:
